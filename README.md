@@ -1,5 +1,10 @@
-<br /><br />
-<div style="overflow:hidden">
+<style>
+.qianfeiqianlan img {
+    max-width:50%!important;
+}
+</style>
+
+<div style="overflow:hidden" class="qianfeiqianlan">
 
 <a href="https://github.com/qianfeiqianlan/qianfeiqianlan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=qianfeiqianlan&count_private=true&theme=radical" style="max-width:50%;" />
@@ -9,7 +14,6 @@
 </a>
 
 </div>
-<br /><br /> 
 
 ### Hi there 👋
 I am a full stack developer, I am interested in C/C++, JS/TS, Java/C#, Go/Rust, Haskell/Lisp.
