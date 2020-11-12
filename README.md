@@ -1,15 +1,9 @@
-<style>
-.qianfeiqianlan img {
-    max-width:50%!important;
-}
-</style>
-
 <div style="overflow:hidden" class="qianfeiqianlan">
 
-<a href="https://github.com/qianfeiqianlan/qianfeiqianlan">
+<a href="https://github.com/qianfeiqianlan/qianfeiqianlan" style="max-width:50%;" >
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=qianfeiqianlan&count_private=true&theme=radical" style="max-width:50%;" />
 </a>
-<a href="https://github.com/qianfeiqianlan/qianfeiqianlan">
+<a href="https://github.com/qianfeiqianlan/qianfeiqianlan" style="max-width:50%;" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianfeiqianlan&layout=compact&include_all_commits=true&theme=radical" style="max-width:50%;"/>
 </a>
 
