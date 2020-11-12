@@ -1,11 +1,11 @@
 <br /><br />
 <div style="overflow:hidden">
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qianfeiqianlan&count_private=true&theme=radical" />
+<a href="https://github.com/qianfeiqianlan/qianfeiqianlan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qianfeiqianlan&count_private=true&theme=radical" style="max-width:50%;" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianfeiqianlan&layout=compact&include_all_commits=true" />
+<a href="https://github.com/qianfeiqianlan/qianfeiqianlan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianfeiqianlan&layout=compact&include_all_commits=true&theme=radical" style="max-width:50%;"/>
 </a>
 
 </div>
