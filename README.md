@@ -1,38 +1,18 @@
-<div style="overflow:hidden" class="qianfeiqianlan">
-
-<a href="https://github.com/qianfeiqianlan/qianfeiqianlan" style="max-width:50%;" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qianfeiqianlan&count_private=true&theme=radical" style="max-width:50%;" />
-</a>
-<!-- <a href="https://github.com/qianfeiqianlan/qianfeiqianlan" style="max-width:50%;" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qianfeiqianlan&layout=compact&include_all_commits=true&theme=radical" style="max-width:50%;"/>
-</a> -->
-</div>
-
-<br/>
-
-### Hi there 👋
+## Hi there <img src="https://images-ktzz.oss-cn-beijing.aliyuncs.com/gif/537b9b7245944aeabdadb12edda9ab70.gif" width="40">
 
 I am a full stack developer, I am interested in C/C++, JS/TS, Java/C#, Go/Rust, Haskell/Lisp.
+
 - 🔭 I’m currently working on TypeScript
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on everything interesting
 
-<!--
+## Stats <img src="https://images-ktzz.oss-cn-beijing.aliyuncs.com/gif/3eef5851b3454caa9e904afcf484c24d.gif" width="40">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qianfeiqianlan&layout=compact&include_all_commits=true)](https://github.com/qianfeiqianlan/qianfeiqianlan)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=qianfeiqianlan&count_private=true&theme=radical)](https://github.com/qianfeiqianlan/qianfeiqianlan)
-
-**qianfeiqianlan/qianfeiqianlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/qianfeiqianlan">
+    <img align="center" src="https://github-readme-stats-three-brown-35.vercel.app/api?username=qianfeiqianlan&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true"/>
+  </a>
+  <a href="https://github.com/qianfeiqianlan">
+    <img align="center" src="https://github-readme-stats-three-brown-35.vercel.app/api/top-langs/?username=qianfeiqianlan&hide=tcl,xslt,jupyter%20notebook,smarty,tex&theme=transparent&layout=compact&hide_border=true"/>
+  </a>
+</div>
