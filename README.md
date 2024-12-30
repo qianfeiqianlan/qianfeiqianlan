@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=qianfeiqianlan)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E9%A3%8E%E9%9B%A8%E9%80%81%E6%98%A5%E5%BD%92%EF%BC%8C%E9%A3%9E%E9%9B%AA%E8%BF%8E%E6%98%A5%E5%88%B0%E3%80%82)](https://git.io/typing-svg)
+
 ## Hi there <img src="https://images-ktzz.oss-cn-beijing.aliyuncs.com/gif/537b9b7245944aeabdadb12edda9ab70.gif" width="40">
 
 I am a full stack developer, I am interested in C/C++, JS/TS, Java/C#, Go/Rust, Haskell/Lisp.
